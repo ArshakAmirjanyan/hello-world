@@ -2,3 +2,6 @@ I want you practice some git with me, so here I will list tasks regarding git.
 
 
 task # 1. create devel branch and push there the answer regarding question in Hello-Arshak file.
+task # 2. in answers file copy/paste difference between devel and master
+branch 
+task # 3. merge devel into master
