@@ -1,0 +1,2 @@
+1. clean directory and leave only assignments.txt
+2. create new project and copy classes/packages etc from your old project to newly created directory.
